@@ -52,9 +52,6 @@ Adjust Parameters: Modify the script to adjust detection thresholds and calibrat
 Contributing
 Feel free to contribute by forking the repository and making improvements. Open issues or submit pull requests for any bugs or feature requests.
 
-License
-This project is licensed under the MIT License - see the LICENSE file for details.
-
 Contact
 For questions or support, please contact: pratheepkumarr19@gmail.com
 
