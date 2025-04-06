@@ -20,7 +20,7 @@ Clone the Repository:
 
 bash
 Copy code
-git clone [https://github.com/yourusername/your-repository.git](https://github.com/pradeeshkumareu/Object-detection--ID-Card.git)
+git clone [https://github.com/pratheepkumarr/ID-Card-Detection-](https://github.com/pratheepkumarr/ID-Card-Detection-)
 Install Dependencies:
 Ensure you have the required libraries installed. You can install them using pip:
 
